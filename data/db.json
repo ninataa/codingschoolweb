@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "Nhi Ta",
+      "email": "l@gmail.com",
+      "pwd": "hhhhhhhh",
+      "id": 1
+    },
+    {
+      "name": "Thy Ta",
+      "email": "t@gmail.com",
+      "pwd": "tttttttt",
+      "id": 2
+    }
+  ],
+  "enrollment": [
+    {
+      "sid": "1",
+      "courseCode": "INF10002",
+      "id": 2
+    },
+    {
+      "sid": "1",
+      "courseCode": "COS10009",
+      "id": 4
+    }
+  ],
+  "units": [
+    {
+      "code": "ICT10001",
+      "desc": "Problem Solving with ICT",
+      "cp": "12.5",
+      "type": "Core",
+      "aim": "Every day we are faced with problems that require analytical thinking, creativity and resourcefulness to solve. This unit challenges students to explore different approaches to analysing and solving problems in an organisation framework. Students will develop the ability to apply analysis techniques to unfamiliar problems and present their investigation through the use of a wide range of innovative Information Communication Technologies [ICT]."
+    },
+    {
+      "code": "COS10005",
+      "desc": "Web Development",
+      "cp": "12.5",
+      "type": "Core",
+      "aim": "To introduce the technology of the Internet and World Wide Web and to develop an understanding of the technologies associated with programming for the World Wide Web."
+    },
+    {
+      "code": "INF10002",
+      "desc": "Database Analysis and Design",
+      "cp": "12.5",
+      "type": "Core",
+      "aim": "Digital data is central to the modern economy. Transactions, managerial decisions, and strategy development rely on data. Databases are the tool used to create, store, organise, and disseminate data. This unit delivers the fundamental principles needed to effectively design and use databases. It seeks to unpack the notion of data, and introduce contemporary tools and techniques for storing, retrieving, exploiting, and visualising data."
+    },
+    {
+      "code": "COS10009",
+      "desc": "Introduction to Programming",
+      "cp": "12.5",
+      "type": "Core",
+      "aim": "This unit of study aims to introduce students to structured procedural programming and design. On successful completion of this unit students will be able to: Apply code reading and debugging techniques to analyse, interpret, and describe the purpose of program code, and locate within this code errors in syntax, logic, style and/or good practice."
+    }
+  ]
+}
